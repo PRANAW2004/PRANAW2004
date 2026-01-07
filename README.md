@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a professional who has experience in developing optimal solutions for different problems.<br>I served as the founder and lead for Google Developer Student Clubs(GDSC) acheiving nationwide recognition for my leadership.<br>
+Highly motivated and passionate Software Developer with hands-on experience in building mobile applications using Flutter and React Native, backed by robust Firebase integrations and Odoo database connectivity.<br />Developed and deployed cross - platform applications for business requirements using Odoo ERP tool. <br />Experienced with React to create dynamic websites with Express.js as backend tool along with MongoDB database. <br />Proficient in using Flutter and React Native to develop Mobile apps for Business Solutions
 
 
 ## 🌐 Socials:
